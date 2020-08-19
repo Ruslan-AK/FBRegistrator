@@ -1,0 +1,12 @@
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/bin/Debug/netcoreapp3.0/FBRegistrator.Data.deps.json
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/bin/Debug/netcoreapp3.0/FBRegistrator.Data.dll
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/bin/Debug/netcoreapp3.0/FBRegistrator.Data.pdb
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/obj/Debug/netcoreapp3.0/FBRegistrator.Data.csprojAssemblyReference.cache
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/obj/Debug/netcoreapp3.0/FBRegistrator.Data.AssemblyInfoInputs.cache
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/obj/Debug/netcoreapp3.0/FBRegistrator.Data.AssemblyInfo.cs
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/obj/Debug/netcoreapp3.0/FBRegistrator.Data.csproj.CoreCompileInputs.cache
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/obj/Debug/netcoreapp3.0/FBRegistrator.Data.dll
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/obj/Debug/netcoreapp3.0/FBRegistrator.Data.pdb
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/bin/Debug/netcoreapp3.0/FBRegistrator.Data.runtimeconfig.json
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/bin/Debug/netcoreapp3.0/FBRegistrator.Data.runtimeconfig.dev.json
+/Users/Reneuby/Documents/C#/fbregistrator/FBRegistrator.Data/obj/Debug/netcoreapp3.0/FBRegistrator.Data.genruntimeconfig.cache
